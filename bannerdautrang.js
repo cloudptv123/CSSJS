@@ -117,7 +117,7 @@ $(window).load(function() {
 			$(divpopup).attr('id', 'myModal');
 			$(divpopup).attr('class', 'linhnguyen-modal');
 			$( "body" ).append(divpopup);
-			$("#myModal").html("<a href='https://goo.gl/67SPxY' target='_blank'><img src='https://lh6.googleusercontent.com/-VRWdBQFsTHw/WGJdj8zPPkI/AAAAAAAAACI/RQeJ5YjzeyMaQbHbnWQyzhaN_lhZCXYsgCL0B/s300-no/ColorfulArtDesign.jpg' width='500px'/><br/>Thiết kế Banner giá rẻ SG</a>. liên hệ Chương Design. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			$("#myModal").html("<a href='https://goo.gl/67SPxY' target='_blank'><img src='https://lh6.googleusercontent.com/-VRWdBQFsTHw/WGJdj8zPPkI/AAAAAAAAACI/RQeJ5YjzeyMaQbHbnWQyzhaN_lhZCXYsgCL0B/s300-no/ColorfulArtDesign.jpg' width='500px'/><br/>Thiết kế Banner giá rẻ SG</a>. liên hệ Chương Design LH : 0963199477. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			$('#myModal').linhnguyen($('#myModal').data());
 		}
 });
